@@ -26,6 +26,8 @@ at all test levels. A flexible team player, self-motivated bug hunter, and creat
 ![postman-0](https://user-images.githubusercontent.com/115991372/229302191-81ebf494-38a8-4318-abcf-22333e262a47.jpg)
 ![Git-Icon-1788C](https://user-images.githubusercontent.com/115991372/229302265-d1daf8e8-5755-4dec-a62c-5337ae8f36b0.png)
 ![307-3071154_appium-clipart](https://user-images.githubusercontent.com/115991372/229303222-82463fd9-c9b1-4fcc-b738-7ad56a881ab7.png)
+![Sql_data_base_with_logo](https://user-images.githubusercontent.com/115991372/229303366-18492306-d7ff-43f6-9bba-3e5d0a2c87dd.png)
+
 
 
 
