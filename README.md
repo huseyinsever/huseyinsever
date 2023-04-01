@@ -1,13 +1,13 @@
 Hello, world! 👋 I’m Hüseyin. Welcome to my page!🎉
  
  
-                                                          <-----  ABOUT ME  ----->
+                                                        <-----  ABOUT ME  ----->
 Passionate and solution-oriented QA Engineer with 2+ years of experience, seeking to deliver top-quality work with detailed and neat test cases and test 
 scenarios while expanding knowledge in Agile projects. 
 Experienced in a wide variety of testing activities including but not limited to Frontend Testing, API Testing, Backend Testing, Smoke Test, Regression Test, System Integration Test, and Black and Grey Box Testing,
 at all test levels. A flexible team player, self-motivated bug hunter, and creative thinker with outstanding communication skills.
 
-                                                   <-----  MY LANGUAGES AND TOOLS  ----->
+                                                  <-----  MY LANGUAGES AND TOOLS  ----->
 
  ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f74722f7468756d622f322f32652f4a6176615f4c6f676f2e7376672f33303070782d4a6176615f4c6f676f2e7376672e706e673f3230313131323239323130313233](https://user-images.githubusercontent.com/115991372/229299482-39849ca0-06d9-4ebf-b04c-e12b6011744b.png)
  ![com037-scaled](https://user-images.githubusercontent.com/115991372/229300389-2bbc6a61-235f-403f-bd13-7099a75e62af.jpg)
